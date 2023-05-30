@@ -21,7 +21,7 @@ Satrack is a Python program that allows you to obtain the current location of va
    `$ cd satrack`
 
 2. Install the required dependencies. Make sure you have Python and the `requests` library installed:
-   $ pip install requests
+   `$ pip install requests`
 
 3. Obtain the API key:
 To fetch the location of NOAA satellites, you need to sign up on [N2YO.com](https://www.n2yo.com/) and obtain an API key. Replace `"YOUR_API_KEY"` in the `get_satellite_location` function in the `satellite_locator.py` file with your own API key.
