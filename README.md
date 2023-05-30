@@ -20,7 +20,7 @@ Satrack is a Python program that allows you to obtain the current location of va
    `$ git clone https://github.com/aouni0n/satrack`
    `$ cd satrack`
 
-2. Install the required dependencies. Make sure you `have Python and the `requests` library installed:
+2. Install the required dependencies. Make sure you have Python and the `requests` library installed:
    $ pip install requests
 
 3. Obtain the API key:
