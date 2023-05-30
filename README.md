@@ -4,7 +4,7 @@
 
 ## Description
 
-Satellite Locator is a Python program that allows you to obtain the current location of various satellites, including the International Space Station (ISS) and NOAA 15, 18, and 19. The program fetches the satellite location data using APIs and displays the longitude and latitude information.
+Satrack is a Python program that allows you to obtain the current location of various satellites, including the International Space Station (ISS) and NOAA 15, 18, and 19. The program fetches the satellite location data using APIs and displays the longitude and latitude information.
 
 ## Table of Contents
 
